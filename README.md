@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saicharishmavalluri
-- 👀 I’m interested in applying Machine Learning Techniques to various datasets.
 - 🌱 I’m currently pursuing my Masters in Computer Science at Iowa State University.
-- 💞️ I’m looking to collaborate on any projects related to Data Science and Data Engineering.
+- 💞️ I’m looking forward to collaborate on any projects related to Software development and Data Science.
 
 
 <!---
